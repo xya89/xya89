@@ -1,4 +1,4 @@
-- 👋 Hi, I’m butterChicken123
+- 👋 Hi, I’m waterdrinker 
 - 👀 I’m interested in drinking water
 - 🌱 I’m currently learning how to drink water
 - 💞️ I’m looking to collaborate on drink water as a group
