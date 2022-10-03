@@ -1,7 +1,7 @@
-- 👋 Hi, I’m waterdrinker 
-- 👀 I’m interested in drinking water
-- 🌱 I’m currently learning how to drink water
-- 💞️ I’m looking to collaborate on drink water as a group
+- 👋 Hi, I’m Sean Yang
+- 👀 I’m interested in drawing conclusions using data
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to collaborate on business analysis as a group
 - 📫 Come to the water fountain located in West Mall Center in Burnaby campus. That is where I usually drink water 
 
 <!---
